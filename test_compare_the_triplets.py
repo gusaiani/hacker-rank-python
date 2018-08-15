@@ -1,5 +1,4 @@
 # https://www.hackerrank.com/challenges/compare-the-triplets/problem
-from functools import reduce
 
 def solve(array1, array2):
     array1_total = 0
